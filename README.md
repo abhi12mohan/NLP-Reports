@@ -7,9 +7,9 @@ A collection of different reports I completed for my MIT 6.864 class (Graduate-l
 I explored three different ways of using unlabeled text data to learn pretrained word representations. For each of the three representation learning schemes, I implemented, trained, and evaluated the scheme on a real dataset, then discussed some theoretical properties.
 
 * Report Details
-◦&nbsp; ? Matrix Factorization: Nearest neighbors in representation space, word embeddings, classification problems, LSA featurizer models
-◦&nbsp; ? Downstream classification problem, Word2Vec-style models, context size
-◦&nbsp; ? Baum–Welch algorithm, categorical representations, n-gram models
+◦&nbsp; Matrix Factorization: Nearest neighbors in representation space, word embeddings, classification problems, LSA featurizer models
+◦&nbsp; Downstream classification problem, Word2Vec-style models, context size
+◦&nbsp; Baum–Welch algorithm, categorical representations, n-gram models
 
 ### 2. Seq2Seq and Trees Report
 I implemented a neural machine translation (NMT) system using an RNN-based sequence-to-sequence (seq2seq) model, and practice constituency based parsing for semantic interpretation.
