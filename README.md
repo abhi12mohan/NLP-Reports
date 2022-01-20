@@ -1,4 +1,4 @@
-# Advanced Natural Langauage Processing - Reports
+# Advanced Natural Language Processing - Reports
 
 A collection of different reports I completed for my MIT 6.864 class (Graduate-level Advanced Natural Language Processing). Each report delves into a set of specific NLP topics, and provides some details regarding implementation of code (prohibited from sharing) and results of different experimental and theoretical tests. Additionally, I have included a research paper that my team wrote summarizing the results of our final research project.
 
